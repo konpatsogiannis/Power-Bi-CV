@@ -1,2 +1,2 @@
 # Power-Bi-CV
-Files for CV into a Power BI
+Files Excel and .pbix files for creating a CV using Power BI
